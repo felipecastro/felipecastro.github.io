@@ -6,10 +6,10 @@
 name: Felipe Castro
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Web Developer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: http://felipecastro.com.br/wp-content/uploads/2013/04/fc_bkg_logo.png
 
 #
 # Flags below are optional
@@ -18,12 +18,12 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble: 
-  email: 
-  facebook: 
+  email: felipe@felipecastro.com.br
+  facebook: felipe.castro
   flickr: 
-  github: felipecastro/jekyll-now
-  instagram: 
-  linkedin: 
+  github: felipecastro
+  instagram: castrofelipe
+  linkedin: pub/felipe-castro/45/5a8/969
   pinterest: 
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: castrofelipe
